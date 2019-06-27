@@ -1,0 +1,6 @@
+Nguyen Van Qua, Tong Giam Doc, 24/07/2004, 2
+Bui Thien Nhan, Giam Doc, 21/08/1991, 2
+Bui Thien N, Giam Doc, 21/08/1996, 2
+Hoang Van Thang, Nhan Vien, 01/12/1998, 1
+Tran Hoa, Giam Doc, 20/03/2000, 3
+Nguyen Van Thanh, Quan Li, 03/08/1996, 1.5
