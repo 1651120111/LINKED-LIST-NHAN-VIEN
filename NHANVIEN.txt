@@ -1,0 +1,6 @@
+Bui Thien N, Giam Doc, 21/07/1995, 5
+Hoang Van Thang, Nhan Vien, 25/12/1998, 1
+Tran Hoa, Giam Doc, 20/03/2000, 3
+Nguyen Van Thanh, Thu ky, 03/08/1996, 1.5
+Do Van Quang, Tong Giam Doc, 03/08/2000, 2
+Nguyen Tuan Ba, Quan Li, 03/06/2001, 2
