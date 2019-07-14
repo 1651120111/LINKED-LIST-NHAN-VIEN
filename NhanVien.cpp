@@ -1,4 +1,4 @@
-﻿#include "NhanVien.h"
+﻿#include "NhanVien.h";
 void KhoiTaoDanhSach(LIST &l) {
 	l.pHead = NULL;
 	l.pTail = NULL;
